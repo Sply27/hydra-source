@@ -1,0 +1,29 @@
+{
+  "name": "My Test Source",
+  "downloads": [
+    {
+      "title": "Test Game",
+      "uris": [
+        "magnet:?xt=urn:btih:0123456789abcdef0123456789abcdef01234567"
+      ],
+      "uploadDate": "2026-10-03T00:00:00.000Z",
+      "fileSize": "10 GB"
+    },
+    {
+      "title": "Test Game 2",
+      "uris": [
+        "magnet:?xt=urn:btih:abcdef0123456789abcdef0123456789abcdef01"
+      ],
+      "uploadDate": "2026-10-03T00:00:00.000Z",
+      "fileSize": "25 GB"
+    },
+    {
+      "title": "Test Game 3",
+      "uris": [
+        "magnet:?xt=urn:btih:1111111111111111111111111111111111111111"
+      ],
+      "uploadDate": "2026-10-03T00:00:00.000Z",
+      "fileSize": "50 GB"
+    }
+  ]
+}
