@@ -1,0 +1,13 @@
+{
+    "name": "Hydra Test",
+    "downloads": [
+        {
+            "title": "PASEC",
+            "uris": [
+                "https://example.com/test"
+            ],
+            "uploadDate": "2024-09-20T00:00:00.000Z",
+            "fileSize": "460.5 MB"
+        }
+    ]
+}
