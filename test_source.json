@@ -1,13 +1,13 @@
 {
-    "name": "Hydra Test",
+    "name": "Hydra HTTPS Test",
     "downloads": [
         {
             "title": "Succubus Successor: Delilah's Juicy Journey",
             "uris": [
-                "magnet:?xt=urn:btih:01c137287d6f0ed05a56742dae794f632c79ff3d&dn=ubuntu-24.04.4-desktop-amd64.iso"
+                "https://raw.githubusercontent.com/Sply27/hydra-source/main/hydra-test.zip"
             ],
             "uploadDate": "2026-10-03T00:00:00.000Z",
-            "fileSize": "5.8 GB"
+            "fileSize": "263 B"
         }
     ]
 }
