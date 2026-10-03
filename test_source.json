@@ -1,13 +1,13 @@
 {
-    "name": "Hydra Test",
+    "name": "Hydra Download Test",
     "downloads": [
         {
-            "title": "The Married Woman Nextdoor",
+            "title": "A Simple Life with My Unobtrusive Sister",
             "uris": [
-                "https://example.com/test"
+                "https://raw.githubusercontent.com/Sply27/hydra-source/main/hydra-test.txt"
             ],
             "uploadDate": "2026-10-03T00:00:00.000Z",
-            "fileSize": "1 GB"
+            "fileSize": "0.1 KB"
         }
     ]
 }
