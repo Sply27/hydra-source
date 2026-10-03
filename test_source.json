@@ -1,13 +1,13 @@
 {
-    "name": "Hydra Download Test",
+    "name": "Hydra Magnet Test",
     "downloads": [
         {
-            "title": "Resident Evil Requiem",
+            "title": "Ubuntu 24.04.4 Desktop amd64 ISO",
             "uris": [
-                "https://raw.githubusercontent.com/Sply27/hydra-source/main/hydra-test.zip"
+                "magnet:?xt=urn:btih:01c137287d6f0ed05a56742dae794f632c79ff3d&dn=ubuntu-24.04.4-desktop-amd64.iso"
             ],
             "uploadDate": "2026-10-03T00:00:00.000Z",
-            "fileSize": "263 B"
+            "fileSize": "5.8 GB"
         }
     ]
 }
